@@ -1,0 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: http://and-2026-divi-to-html.local/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
